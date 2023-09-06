@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohamed Regaieg
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Linear Regression
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
